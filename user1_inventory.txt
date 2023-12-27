@@ -1,0 +1,6 @@
+4 cake 100 400 food
+6 pizza 50 500 food
+2 brushes 80 20 toiletries
+1 chips 110 10 food
+3 apples 80 40 food
+5 toothpaste 100 40 toiletries
